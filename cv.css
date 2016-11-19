@@ -1,0 +1,91 @@
+body
+{
+
+	background-color: grey;
+
+}
+
+.page
+{
+	width: 780px;
+	margin: auto;
+	font-family: Tahoma, sans-serif, serif;
+	font-size: 16px;
+	border: 5px solid #3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 3px 4px black;
+	padding: 20px;
+	background-color: white;
+}
+
+.infosphoto
+{
+	height: 300px;
+}
+
+.info
+{
+	float: left;
+}
+
+.photo
+{
+	float: right;
+}
+
+.section
+{
+	margin-bottom: 75px;
+	text-align: justify;
+}
+
+#TexteVert
+{
+	padding: 400px;
+	position: absolute;
+	left: 30px;
+	top: 120px;
+
+}
+
+#TexteVert:hover
+{
+	color: #00AA00;
+}
+
+.sec-gauche
+{
+	float: left;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+.sec-droite
+{
+	margin-left: 150px;
+	margin-top: 36px;
+}
+
+h2
+{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+
+.titre
+{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#forma-gauche p
+{
+	margin-bottom : 35px;
+}
+
+strong
+{
+	font-size: 22px;
+}
